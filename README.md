@@ -78,13 +78,11 @@ Future work must **implement sliding window inference** for context preservation
 
 ---
 ## Authors and Availability
+**Arieldhipta Tarliman** & **Justin Hartanto Widjaja**
 
-| Author | Contribution |
-| :--- | :--- |
-| **Arieldhipta Tarliman** | Conceptualization, Methodology, Software, Formal Analysis, Investigation, Visualization, Writing. |
-| **Justin Hartanto Widjaja** | Conceptualization, Data Curation, Investigation, Writing. |
-|**Noviyanti Tri Maretta Sagala** | Supervision. |
-|**Henry Lucky** | Supervision. |
-|**Rilo Chandra Pradana** | Supervision. |
+With supervisor:
+**Noviyanti Tri Maretta Sagala** 
+**Henry Lucky** 
+**Rilo Chandra Pradana**
 
 **Source Code and Data:** The source code and data details are available at folder **Dataset & Results**
