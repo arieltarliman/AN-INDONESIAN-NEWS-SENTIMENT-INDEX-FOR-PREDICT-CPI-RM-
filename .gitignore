@@ -1,0 +1,10 @@
+.env
+else/
+Model Config and Results/
+log/
+checkpoin/
+FAIL/
+ready/
+#big files
+4_Code_Fidelity_Check_Model/Dataset and Results (Fidelity)/Links/
+Dataset and Results/Dataset Sentiment Analysis/BigQuery Results/
