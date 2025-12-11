@@ -81,8 +81,8 @@ Future work must **implement sliding window inference** for context preservation
 **Arieldhipta Tarliman** & **Justin Hartanto Widjaja**
 
 With supervisor:
-**Noviyanti Tri Maretta Sagala** 
-**Henry Lucky** 
+**Noviyanti Tri Maretta Sagala** ,
+**Henry Lucky** ,
 **Rilo Chandra Pradana**
 
 **Source Code and Data:** The source code and data details are available at folder **Dataset & Results**
