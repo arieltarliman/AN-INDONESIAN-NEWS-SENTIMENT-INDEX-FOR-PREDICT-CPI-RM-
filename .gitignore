@@ -1,10 +1,13 @@
 .env
 else/
-Model Config and Results/
 log/
 checkpoin/
 FAIL/
 ready/
 #big files
 4_Code_Fidelity_Check_Model/Dataset and Results (Fidelity)/Links/
-Dataset and Results/Dataset Sentiment Analysis/BigQuery Results/
+Dataset and Results/Dataset Sentiment Analysis/BigQuery Results/Data
+Dataset and Results/Model Config and Results/indobert-base-p2/Model
+Dataset and Results/Model Config and Results/indolem-indobert-base-uncased/Model
+Dataset and Results/Model Config and Results/mdeberta-v3-base/Model
+Dataset and Results/Model Config and Results/runs\

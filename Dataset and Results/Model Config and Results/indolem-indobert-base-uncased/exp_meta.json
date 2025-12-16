@@ -1,0 +1,7 @@
+{
+  "created_at": "2025-11-26 02:06:51",
+  "seed": 42,
+  "data_csv": "df_all_labeled_clean.csv",
+  "model_name": "indolem/indobert-base-uncased",
+  "notes": "HF datasets workflow, sliding-window inference"
+}
